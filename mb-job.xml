@@ -30,7 +30,7 @@
                     <id>04a92b4e-d607-48b7-b613-5dc0af3cb5aa</id>
                     <apiUri>https://api.github.com</apiUri>
                     <credentialsId>GitHub</credentialsId>
-                    <repoOwner>sriharitirumala</repoOwner>
+                    <repoOwner>mannepallyvinod</repoOwner>
                     <repository>${name}</repository>
                     <repositoryUrl>${repo_url}</repositoryUrl>
                     <traits>
